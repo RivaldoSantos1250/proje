@@ -14,6 +14,7 @@
 body {
     background: url("../images/background.jpg");
     color: #f2f2f2;
+    background-position: center;
 }
 
 .container {
